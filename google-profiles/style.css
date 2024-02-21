@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+
+.box{
+    margin: 50px;
+    border: 1px solid lightgrey;
+    border-radius: 12px;
+    width: 500px;
+}
+
+.inner-box{
+    padding: 40px;
+}
+.heading{
+    font-size: 30px;
+    font-weight: normal;
+    color: #202124;
+}
+
+
+.content{
+    margin-top: 8px;
+    font-size: 20px;
+    color: #797d80;
+}
+
+.avatar{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+.actions{
+    padding: 20px 40px;
+    border-top: 1px solid lightgrey;
+}

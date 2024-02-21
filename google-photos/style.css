@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+}
+
+img{
+    width: 100%;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 11px;
+    height: 200px;
+
+}
+.card{
+    margin: 50px;
+    width: 300px;
+    border: 1px solid lightgrey;
+    border-radius: 12px;
+}
+
+.tag{
+    color: #6e7275;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.info{
+    color: #696d70;
+
+}
+
+
+.heading{
+    color: #252629;
+    margin: 8px 0px; 
+}
+
+.content{
+    padding: 20px 20px;
+}
+
+.spacer{
+    height:20px
+}
+
+.action{
+    background: transparent;
+    border: none;
+    color: #1c73e8;
+    font-size: 16px;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 8px 12px; 
+}

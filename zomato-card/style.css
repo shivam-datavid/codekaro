@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+}
+
+.restro-card{
+    border: 1px solid lightgrey;
+    width: 320px;
+    margin: 40px auto;
+    padding: 16px;
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.img-wrapper{
+    position: relative;
+}
+.off-tag{
+    position: absolute;
+    bottom: 20px;
+    color: white;
+    background-color: #266fef;
+    font-size: 14px;
+    padding: 2px 4px;
+
+}
+.delivery-tag{
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    color: #363636;
+    background-color: #f7f9f9;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 2px 4px;
+}
+
+.promoted-tag{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 2px 4px;
+}
+.restro-name{
+    color: #1c1c1c;
+    margin-top: 8px;
+    font-weight: 600;
+}
+
+.restro-cuisine{
+    color: #6a6a6a;
+    font-weight: normal;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+.restro-img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.safety-info{
+    display: flex;
+    align-items: center;
+}
+.divider{
+    margin: 16px 0px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.safety-img{
+    margin-right: 10px;
+}
+
+.safety{
+    color: #9a9a9a;
+    font-size: 14px;
+    font-weight: 400;
+}
